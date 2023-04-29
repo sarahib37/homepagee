@@ -1,0 +1,192 @@
+body{
+    background: linear-gradient(#93A5A0, #1E2C27);
+    margin: 0px;
+}
+
+.welcome{
+    background-image: url("http://wallpapercave.com/wp/tOBFkjq.jpg");
+    background-size: cover;
+    margin: 0px auto;
+    height: 343px;
+    width: 720px;
+    text-align: center;
+    border: 1px solid #1E2C27;
+}
+
+#welcome{
+    margin-top: 130px;
+    font-size: 60px;
+    color: #640d0d;
+    text-shadow: 0px 0px 30px #ffffff;
+    margin-bottom: 0px;
+    font-family: 'Creepster', cursive;
+    line-height: 70px;
+}
+
+#slogan{
+    margin-top: 0px;
+    color: #111311;
+    font-size: 30px;
+    font-family: 'Chicle', cursive;
+    text-shadow: 0px 0px 5px rgba(253, 3, 3, 0.35);
+}
+
+.guide{
+    width: 722px;
+    height: 378px;
+    background: #070D17;
+    border-top: 3px solid #070D17;
+    margin: 0px auto;
+}
+
+#guide-class{
+    width: 500px;
+    height: 300px;
+    margin: auto;
+    margin-top: 38px;
+    background: #570000;
+    border-radius: 41px;
+}
+
+#title{
+    text-align: center;
+    font-family: 'Amarante', cursive;   
+    text-shadow: 0px 4px 4px #420707;
+    color: #FF4D14;
+    margin-bottom: 0px;
+    font-size: xxx-large;
+}
+
+.guide-flex{
+    display: flex;
+    justify-content: space-around;
+}
+
+.guide-image{
+    width: 190px;
+    height: 225px;
+    margin-top: 0px;
+    background-image: url("wednesday2.jpeg");
+    background-size: cover;
+    border-radius: 20%;
+    margin-left: 15px;
+}
+
+.guide-flex2{
+    width: 230px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+#font1{
+    font-family: 'Rye', cursive;
+    color: #FF4D14;
+    font-size: x-large;
+    text-shadow: 0px 4px 4px rgba(6, 6, 6, 0.25);
+    margin-bottom: 0px;
+    margin-top: 20px;
+}
+
+#font2{
+    font-family: 'Rochester', cursive;
+    margin-top: 0px;
+    font-size: xxx-large;
+    text-shadow: 4px 4px 0px rgba(9, 8, 8, 0.25);
+    color: #FF4D14;
+}
+
+.restaurant{
+    width: 722px;
+    height: 400px;
+    background-color: #0F1217;
+    border-top: 1px solid #0E1623;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#restaurant-title{
+    text-align: center;
+    color: #263D64;
+    text-shadow: 0px 4px 4px #d00d78;
+    font-family: 'Black And White Picture', sans-serif;
+    font-size: 41px;
+}
+
+#restaurant-title:hover{
+    text-shadow: 0px 4px 4px #FF4D14;
+}
+
+.eclipse{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    margin-left: 20px;
+}
+
+#restaurant-flex{
+    display: flex;
+    font-family: 'Bubblegum Sans', cursive;
+    text-align: center;
+    justify-content: space-evenly;
+}
+
+#lovecroft{
+    background: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.iXQtIgypG1mhAgUTlnnI7gHaE9%26pid%3DApi&f=1&ipt=e1323161737c082fc4f0c0b11b497af7fdf972016b0544b7947f8108b0b1a37e&ipo=images");
+    background-size: cover;
+}
+
+#jekyll{
+    background: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.BoaJgQcLb9FL8PA0sHYN5QHaHa%26pid%3DApi&f=1&ipt=2d63aa48e8f23ea6567674f0cd27fdea09bdbf56d372b6faf841944e1b8f01be&ipo=images");
+    background-size: cover;
+}
+
+#beetle{
+    background: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.oZrBdUzl4tMhJIOKtt9y3QHaEK%26pid%3DApi&f=1&ipt=d0665c041a53fa6f9b48ca026eb439cadf0fb53097b1f850d074b558d990358f&ipo=images");
+    background-size: cover;
+}
+
+.restaurant-sub{
+    color: #282E65;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.restaurant-sub:hover{
+    text-shadow: 0px 4px 4px #FF4D14;
+}
+
+.restaurant-desc{
+    color: #A3ADE2;
+    text-shadow: 0px 4px 4px rgba(170, 159, 159, 0.25);
+    width: 170px;
+}
+
+.more{
+    width: 722px;
+    height: 400px;
+    background-color: #0E1623;
+    border-top: 1px solid #0E1623;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.more-desc{
+    color: #A3ADE2;
+    text-shadow: 0px 4px 4px rgba(170, 159, 159, 0.25);
+    width: 180px;
+}
+
+#high-school{
+    background: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.Ox13pkeuZqBnogtmBcmxVwHaHa%26pid%3DApi&f=1&ipt=ef3d8f9107eef3e60e94d9f88d12870b75b9a69f5b1ecea4679e270462d865d6&ipo=images");
+    background-size: cover;
+}
+
+#devil-pool{
+    background: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.D_qPhyyFw6NmJIZdvPntFwHaEK%26pid%3DApi&f=1&ipt=844ec7b4477d803979be0cc9027211ecc33dd67dc85c333b739e5b258f631be0&ipo=images");
+    background-size: cover;
+}
+
+#quest-room{
+    background: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP._R-00FjR1JL-5vh5_QMIXwHaFB%26pid%3DApi&f=1&ipt=478b90a81a5319ad9943c05fce24c055877a37f8156c235d2833d8f504ed5d60&ipo=images");
+    background-size: cover;
+}
